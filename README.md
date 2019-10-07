@@ -1,6 +1,5 @@
 # VideoEditor
 
-VIDEO EDITOR 
 
 Convert, divide, join, crop, rotate videos. 
 
